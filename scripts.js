@@ -10,3 +10,5 @@ selectElement('.open').addEventListener('click', () => {
 selectElement('.close').addEventListener('click', () => {
     selectElement('.nav-list').classList.remove('active');
 });
+
+// https://youtu.be/j_Xa7Kn59Es
