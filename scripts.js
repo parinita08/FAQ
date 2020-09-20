@@ -1,14 +1,14 @@
 // function to select elements
-const selectElement = (s) => document.querySelector(s);
+// const selectElement = (s) => document.querySelector(s);
 
 // Open the menu on click
-selectElement('.open').addEventListener('click', () => {
-    selectElement('.nav-list').classList.add('active');
-});
+// selectElement('.open').addEventListener('click', () => {
+//     selectElement('.nav-list').classList.add('active');
+// });
 
 // Close the menu click
-selectElement('.close').addEventListener('click', () => {
-    selectElement('.nav-list').classList.remove('active');
-});
+// selectElement('.close').addEventListener('click', () => {
+//     selectElement('.nav-list').classList.remove('active');
+// });
 
 // https://youtu.be/j_Xa7Kn59Es
