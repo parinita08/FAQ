@@ -319,13 +319,14 @@ footer {
     .testimonial {
         color: #fafafa;
         position: absolute;
-        top: 22%;
+        top: 20%;
         left: 10%;
         right: 10%;
         transform: translateY(-50%, -50%);
         text-align: center;
         justify-content: space-evenly;
     }
+
 }
 
 @media screen and (min-width: 410px) {
@@ -338,6 +339,17 @@ footer {
         height: 10rem;
         border-radius: 100%;
         border: 2px solid #ebc764;
+    }
+
+    .testimonial {
+        color: #fafafa;
+        position: absolute;
+        top: 8%;
+        left: 10%;
+        right: 10%;
+        transform: translateY(-50%, -50%);
+        text-align: center;
+        justify-content: space-evenly;
     }
 }
 
