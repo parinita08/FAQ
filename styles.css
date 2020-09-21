@@ -115,7 +115,7 @@ nav {
 }
 
 .main-message p {
-    text-transform: lowercase;
+    text-transform: none;
 }
 
 .btn {
@@ -140,7 +140,7 @@ nav {
 .title-heading {
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 8rem;
+    margin-bottom: 4rem;
     color: rgba(0, 0, 0, .7);
 }
 
@@ -155,7 +155,7 @@ nav {
 }
 
 .title-heading p {
-    text-transform: lowercase;
+    text-transform: none;
 }
 
 .activities-grid {
@@ -277,8 +277,12 @@ nav {
     margin-bottom: 2rem;
 }
 
-.adventure-grid-item p {
-    color: rgba(0, 0, 0, .7);
+.logos {
+    font-size: 3rem;
+    text-align: center;
+    cursor: pointer;
+    margin: .5rem 0 1rem;
+    text-decoration: none;
 }
 
 footer {
