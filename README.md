@@ -2,4 +2,4 @@
 https://parinita08.github.io/dsckssemfaq.github.io/
 
 
-this is the FAQ od DSC
+This is the  Official FAQ of DSC KSSEM
